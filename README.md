@@ -3,7 +3,7 @@
 Sou estudante de programação focado no desenvolvimento de sistemas de alta performance (HPC), computação gráfica e engenharia de software médico. Busco oportunidades de estágio remoto onde possa aplicar algoritmos de baixo nível para solucionar desafios complexos na saúde.
 
 ##  Projeto em Destaque
-* **[VisionRad](LINK_DO_SEU_REPOSITORIO_VISIONRAD)**: Plataforma de reconstrução morfológica 3D iterativa e rastreamento tumoral. Desenvolvida com um motor nativo em C11 (OpenMP/SIMD) e aceleração por GPU headless via Vulkan Compute e shaders GLSL para processamento de imagens e malhas DICOM (CT, SEG, CR).
+* **[VisionRad](https://github.com/heitor-fernandes-silva/VisionRad)**: Plataforma de reconstrução morfológica 3D iterativa e rastreamento tumoral. Desenvolvida com um motor nativo em C11 (OpenMP/SIMD) e aceleração por GPU headless via Vulkan Compute e shaders GLSL para processamento de imagens e malhas DICOM (CT, SEG, CR).
 
 ##  Stack Tecnológica & Competências
 * **Linguagens**: C (C11), C++, Python, GLSL (Vulkan Shading Language).
